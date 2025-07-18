@@ -28,9 +28,12 @@ The goal is to analyze and compare these methods based on the learned value func
 ## How to Run the Code:
 
 ### Option 1: Run on Google Colab (Recommended)
-1. Click the notebook file: `Project 2: Gridworld_Policy_Optimization_DP_and_MC.ipynb`  
-2. At the top of the page, click Open in Colab 
-3. Go to Runtime > Run all to execute all cells sequentially  
+1. Download the notebook file `Project 2: Gridworld_Policy_Optimization_DP_and_MC.ipynb` from this GitHub repository to your computer
+2. Go to [https://colab.research.google.com](https://colab.research.google.com) in your web browser
+3. Click File > Upload notebook in the Colab menu
+4. Select the downloaded `.ipynb` file from your computer and upload it
+5. Once opened, run all the cells by clicking Runtime > Run all
+
 
 ### Option 2: Run Locally with Python 3
 1. Ensure Python 3 and Jupyter Notebook are installed on your system  
